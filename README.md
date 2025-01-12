@@ -17,7 +17,7 @@
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/rushikesh4525/)
 <!-- [Coding Ninja](https://www.codingninjas.com/studio/profile/Vis01) -->
 
-## Projects
+<!-- ## Projects
 ### My-YouTube | React App
 - Feb 2024
   - Developed a YouTube clone using React.js, leveraging the YouTube API for fetching videos and implementing features like YouTube-like search with search suggestion API integration and debouncing for performance optimization. Utilized Tailwind CSS for styling and implemented advanced functionalities including nested comments section and live chat feature.
@@ -40,4 +40,4 @@
 ### Crowd funding Dapp
 - June 2022
   - Blockchain app enabling users to create events and contribute using crypto.
-  - Technologies: ReactJs, Solidity, Truffle, Metamask, Ganache
+  - Technologies: ReactJs, Solidity, Truffle, Metamask, Ganache -->
