@@ -3,7 +3,7 @@
 </h1>
 
 - **Portfolio:** [ Portfolio](https://linktr.ee/rushikesh.magdum)
-- **Resume:** [Resume](https://bit.ly/3WfUJap)
+- **Resume:** [Resume](https://tinyurl.com/3ysmwyht)
 
 
 ## 🔰 Let's Connect:
