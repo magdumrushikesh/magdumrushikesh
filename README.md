@@ -4,6 +4,7 @@
 
 - **Portfolio:** [ Portfolio](https://linktr.ee/rushikesh.magdum)
 - **Resume:** [Resume](https://tinyurl.com/3ysmwyht)
+- **LeetCode**[LeetCode](https://leetcode.com/u/magdumrushikesh/)
 
 
 ## 🔰 Let's Connect:
