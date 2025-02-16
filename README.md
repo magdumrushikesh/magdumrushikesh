@@ -2,9 +2,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rushikesh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-- **Portfolio:** [ Portfolio](https://linktr.ee/rushikesh.magdum)
-- **Resume:** [Resume](https://tinyurl.com/3ysmwyht)
-- **LeetCode**[LeetCode](https://leetcode.com/u/magdumrushikesh/)
+- **Portfolio: ** [ Portfolio](https://linktr.ee/rushikesh.magdum)
+- **Resume: ** [Resume](https://tinyurl.com/3ysmwyht)
+- **LeetCode: **[LeetCode](https://leetcode.com/u/magdumrushikesh/)
 
 
 ## 🔰 Let's Connect:
